@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Blankcat11.png</file>
+        <file>crown.jpg</file>
+    </qresource>
+</RCC>
